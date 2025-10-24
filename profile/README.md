@@ -1,0 +1,1 @@
+We will leverage the simplicity of Godot and GDScript to create a rewarding environment for both new and experienced developers to contribute, learn, and build their portfolios.
